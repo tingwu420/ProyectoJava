@@ -1,0 +1,8 @@
+Platano
+1
+Manzana
+2
+Leche
+3
+Queso
+5
