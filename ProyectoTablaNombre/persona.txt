@@ -1,0 +1,7 @@
+Juan 18
+Carlos 19
+Lucia 20
+Santi 49
+Ivan 5
+Nombre: Edad:
+hoal 23
